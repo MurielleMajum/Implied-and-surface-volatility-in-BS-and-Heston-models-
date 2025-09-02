@@ -1,6 +1,6 @@
 # Implied-and-surface-volatility-in-BS-and-Heston-models
 
-Le but de ce projet était d'apprendre par GPR (gaussian processing regression) la volatilité implicite et la surface de volatilité dans les modèles de Black & Scholes et Heston. On s'est rendu compte que la volatilité dans le modèle de BS est constante et dans le modèle de Heston elle est variable et la l'allure d'un smile.
+Le but de ce projet était d'apprendre par GPR (gaussian processing regression) la volatilité implicite et la surface de volatilité dans les modèles de Black & Scholes et Heston. On s'est rendu compte que la volatilité dans le modèle de BS est constante et dans le modèle de Heston elle est variable et a l'allure d'un smile.
 
 
 ## Volatilité et surface de volatilité dans le modèle de BS
